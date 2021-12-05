@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FundControl</string>
+    <string name="income">Доход</string>
+    <string name="expense">Расход</string>
+    <string name="total">Итого</string>
+    <string name="show_detailed">История</string>
+    <string name="add_transaction">Добавить запись</string>
+    <string name="settings">Настройки</string>
+    <string name="change_language">Изменить язык</string>
+    <string name="all">Все</string>
+    <string name="category">Категория:</string>
+    <string name="value">Сумма:</string>
+    <string name="note">Примечание:</string>
+    <string name="cancel">Отмена</string>
+    <string name="save">Сохранить</string>
+    <string name="flag_of_county">Флаг страны</string>
+    <string name="date">Дата:</string>
+    <string name="delete">Удалить</string>
+    <string name="transactions">Транзакции</string>
+    <string name="expenses">Расходы</string>
+    <string name="incomes">Доходы</string>
+    <string name="create_error">Введите сумму транзакции!</string>
+</resources>

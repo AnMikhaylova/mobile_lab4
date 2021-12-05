@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#97daef</color>
+    <color name="colorPrimaryDark">#0A6D8C</color>
+    <color name="colorAccent">#52A9D1</color>
+    <color name="colorLightAccent">#83B9D3</color>
+    <color name="colorLighterAccent">#9FC8DC</color>
+    <color name="colorDivider">#5F5B63</color>
+    <color name="colorGreen">#91c2a8</color>
+    <color name="colorRed">#e0a8aa</color>
+    <color name="colorLightGrey">#A09E9E</color>
+    <color name="controlBackground">#ffffffff</color>
+    <color name="colorCardSolid">#89848c</color>
+    <color name="colorCardBorder">#4C4A4E</color>
+    <color name="colorBackground">#5F5B63</color>
+    <color name="colorText">#ffffffff</color>
+    <color name="my_spinner_text_color">#ffffffff</color>
+    <color name="colorSpinnerBackground">#67656c</color>
+
+
+</resources>
+
+
